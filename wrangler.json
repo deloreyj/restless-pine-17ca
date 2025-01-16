@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "restless-pine-17ca",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "18ed9411-6ec5-4734-8ddf-1715d41583f4",
+      "database_name": "restless-pine-17ca-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
